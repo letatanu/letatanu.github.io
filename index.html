@@ -60,15 +60,15 @@
                     <ul class="lead">
                         <li>
                             Computer Vision:
-                            <span class="text-secondary">optical flow, epipolar geometry, and color transfer.</span>
-                        </li>
-                        <li>
-                            Machine Learning:
-                            <span class="text-secondary">reinforcement learning and K-nearest neighbors,</span>
+                            <span class="text-secondary">epipolar geometry, optical flow, and color transfer.</span>
                         </li>
                         <li>
                             Deep Learning:
                             <span class="text-secondary">AlexNet, VGG and ResNet.</span>
+                        </li>
+                        <li>
+                            Machine Learning:
+                            <span class="text-secondary">reinforcement learning and K-nearest neighbors, and K-mean.</span>
                         </li>
                     </ul>
                     <div class="social-icons">
@@ -148,47 +148,74 @@
                     <h2 class="mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Deep Fundamental Matrix Estimation without Correspondences</h3>
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/Deep_noCor_Pytorch#essential-matrix">Deep Fundamental Matrix Estimation without Correspondences</a></h3>
                             <div class="subheading mb-3">Python/Pytorch/OpenCV/Numpy/Matplotlib</div>
-                            <p>A bot playing MineSweeper automatically was implemented by using the reinforcement learning. It was trained through 10000 games by playing against itself. In result, it could be able to detect which square does not have mine on it in any board sizes.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">AI MineSweeper</h3>
-                            <div class="subheading mb-3">Python/Numpy</div>
-                            <p>A bot playing MineSweeper automatically was implemented by using the reinforcement learning. It was trained through 10000 games by playing against itself. In result, it could be able to detect which square does not have mine on it in any board sizes.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Color ID</h3>
-                            <div class="subheading mb-3">Swift</div>
-                            <p>It was implemented absolutely from scratch in Swift. It is an iOS app that applies machine learning, k-mean to detect the most dominant color from the given region of photo, to identify the name of the main color in that region. Its extension is to give the palette of the n-dominant colors from the given photo. That will help to imagine how photos with a similar palette will look like.</p>
-                        </div>
-                        <div class="flex-shrink-0">
-                            <ul>
-                                <li><span class="text-primary">Link</span></li>
-                                <li><span class="text-primary">demo</span></li>
+                            <ul class="lead">
+                                <li>Estimating the essential matrix between two frames obtained by a monocular camera in the epipolar geometry.</li>
+                                <li>The designed ConvNet can directly estimate the essential matrix without detecting feature points (correlations) between the two input images.</li>
+                                <li>In the test set, the visualizing results looked incredible.</li>
                             </ul>
                         </div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Imager</h3>
-                            <div class="subheading mb-3">ReactJS/Django/OpenCV/Heroku</div>
-                            <p>The full stack web application for image processing. Its idea is to apply image processing algorithms: detect n-most dominant colors and apply filters: Gaussian, detail enhance, and gray scale to the uploaded images. The algorithms are implemented on the backend side with the support of Django and hosted by Heroku.</p>
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/AI_Chess">AI Chess</a></h3>
+                            <div class="subheading mb-3">Python/Numpy/Reinforcement Learning</div>
+                            <ul class="lead">
+                                <li>Training an agent that can play chess v.s human players by using reinforcement learning.</li>
+                                <li>The agent was trained on both sides of the player, which reduces the training time by half.</li>
+                                <li>As a result, the agent wins 100/100 games v.s the Random agent.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/AI_MineSweeper">AI MineSweeper</a></h3>
+                            <div class="subheading mb-3">Python/Numpy/Reinforcement Learning</div>
+                            <ul class="lead">
+                                <li>Training an agent that can play minesweeper itself by using reinforcement learning.</li>
+                                <li>The state in the Q-matrix is re-defined so that the agent trained in small sizes of the grid can play on grids with larger sizes.</li>
+                                <li>As a result, the agent trained in random 5x5 grids with three mines can win 16/1000 random games of 9x9 grids with ten mines.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/ColorID">Color ID</a></h3>
+                            <div class="subheading mb-3">Swift/K-mean</div>
+                            <ul class="lead">
+                                <li>An iOS application gives the name of the most dominant color in the given image, which is obtained from the photo gallery or camera on the iOS devices.</li>
+                                <li>It utilizes a machine learning algorithm called k-mean to cluster colors into groups, then takes the average of color values in the most popular group to give the color result.</li>
+                                <li>Its extension being developed is to provide the palette of the n-dominant colors from the given image.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/FlappyBird-AI">Flappy Bird AI</a></h3>
+                            <div class="subheading mb-3">Python/NEAT</div>
+                            <ul class="lead">
+                                <li>Using Neuroevolution of augmenting topologies - NEAT to train the agent that can play Flappy Bird itself.</li>
+                                <li>After four generations, the agent can play the Flappy Bird game well without losing.</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0"><a href="https://github.com/letatanu/Imager">Imager</a></h3>
+                            <div class="subheading mb-3">ReactJS/Django/OpenCV/Heroku/Computer Vision</div>
+                            <ul class="lead">
+                                <li>The full-stack web application for image processing.</li>
+                                <li>It has two main functions: generate a palette for and apply filters to the given images.</li>
+                                <ul>
+                                    <li>Palette generation detects n-most dominant colors.</li>
+                                    <li>The applying filters are Gaussian, detail enhances, and grayscale.</li>
+                                </ul>
+                            </ul>
                             <ul class="list-inline">
                                 <li class="list-inline-item"><img class="img-fluid img-thumbnail rounded mb-2" src="assets/img/imager.png" alt="Palette" /></li>
                                 <li class="list-inline-item"><img class="img-fluid img-thumbnail rounded mb-2" src="assets/img/filter.png" alt="Filter" /></li>
                             </ul>
-                        </div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Intelligent Talking Photos</h3>
-                            <div class="subheading mb-3">React Native</div>
-                            <p>Contribute in designing and building a mobile (Android and iOS) app, which allows people who have difficulty using speech to press on photos or hotspots inside of photos to communicate. Design three main views and other components such as buttons. Implement button and view functions.</p>
                         </div>
                     </div>
                 </div>
