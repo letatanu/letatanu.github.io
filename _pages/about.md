@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student of Computer Science at Lehigh University, advised by Prof. <a>Maryam Rahnemoonfar<a href="https://engineering.lehigh.edu/faculty/maryam-rahnemoonfar">. My current research  interest lies in deep learning and its application in 3D reconstruction, 3D rendering and 3D semantic segmentation.
+I am a first-year PhD student of Computer Science at Lehigh University, advised by Prof. <a href="https://engineering.lehigh.edu/faculty/maryam-rahnemoonfar">Maryam Rahnemoonfar</a>. My current research  interest lies in deep learning and its application in 3D reconstruction, 3D rendering and 3D semantic segmentation.
 
 Previously, I had been working as a 3D computer vision engineer at Sturfee, Inc. for three years. My work focused on 3D reconstruction and 3D localization to improve the performance and accuracy of Visual Position System (VPS). I received my M.S. and B.S. in Computer Science at Portland State University.
 
