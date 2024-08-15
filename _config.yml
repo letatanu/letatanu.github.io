@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Nhut Le"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Enthusiast 3D/4D"
 repository               : "letatanu/letatanu.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nhut Le"
   avatar           : "assets/img/profile.jpg"
-  bio              : "Lorem ipsum College"
+  bio              : "PhD student, Lehigh University"
   location         : "King of Prussia, PA"
   employer         :
   pubmed           : 
