@@ -34,8 +34,8 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
 <span class='anchor' id='experience'></span>
 # Experience
 - *2020.10 - 2023.10*, &nbsp;Computer Vision Engineer, Sturfee, Inc.
-  - Developed, prototypeed, and enhanced methods for 3D reconstruction and precise localization in the 3D prior map using Structure-from-Motion (SfM) and Multi-View Stereo (MVS) techniques, resulting in improving outdoor VPS and enabling indoor VPS
-  - Implemented and optimizeed RGBD integration algorithms to reconstruct 3D point clouds and meshes, such as using TSDF volume integration and optimizing RGBD poses
+  - Developed, prototyped, and enhanced methods for 3D reconstruction and precise localization in the 3D prior map using Structure-from-Motion (SfM) and Multi-View Stereo (MVS) techniques, resulting in improving outdoor VPS and enabling indoor VPS
+  - Implemented and optimized RGBD integration algorithms to reconstruct 3D point clouds and meshes, such as using TSDF volume integration and optimizing RGBD poses
   - Worked with deep learning networks for 3D semantic segmentation 
   - Proficient in 3D manipulations such as mesh texturing, texture baking, bundle adjustment, and UV unwrapping
 

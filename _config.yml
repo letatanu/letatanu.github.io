@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Nhut Le"
   avatar           : "assets/img/profile.jpg"
-  bio              : "PhD student, Lehigh University"
+  bio              : "CS PhD student, Lehigh University"
   location         : "King of Prussia, PA"
   employer         :
   pubmed           : 
