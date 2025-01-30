@@ -24,7 +24,7 @@ author:
   name             : "Nhut Le"
   avatar           : "assets/img/profile.jpg"
   bio              : "CS PhD student, Lehigh University"
-  location         : "King of Prussia, PA"
+  location         : "Greater Philadelphia, PA"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  resume           : https://github.com/letatanu/letatanu.github.io/tree/main/files/NhutLe_Resume.pdf
 
 
 # Reading Files
