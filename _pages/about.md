@@ -21,7 +21,7 @@ I am a first-year PhD student of Computer Science at Lehigh University, advised 
 
 Previously, I had been working as a 3D computer vision engineer at <a href="https://sturfee.com/">Sturfee, Inc.</a> for three years. My work focused on 3D reconstruction and 3D localization to improve the performance and accuracy of Visual Positioning System (VPS). I received my M.S. and B.S. in Computer Science at Portland State University.
 
-<a href="https://github.com/letatanu/letatanu.github.io/tree/main/files/NhutLe_Resume.pdf">Download resume</a>
+<a href="https://github.com/letatanu/letatanu.github.io/blob/dc6686ad4505e0555d8f0a599bf8e90523818e54/files/NhutLe_Resume.pdf">Download resume</a>
 
 <span class='anchor' id='news'></span>
 # 🔥 News
