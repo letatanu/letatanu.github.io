@@ -13,7 +13,7 @@ main:
     url: "/#experience"
   
   - title: "Projects"
-    url: "project/index.html"
+    url: "/#projects/"
 
   - title: "Publications"
     url: "/#publications"

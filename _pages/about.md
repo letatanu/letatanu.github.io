@@ -41,8 +41,38 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
   - Worked with deep learning networks for 3D semantic segmentation 
   - Proficient in 3D manipulations such as mesh texturing, texture baking, bundle adjustment, and UV unwrapping
 
+<h1 id="projects">Projects</h1> 
+<div class="projects-container"></div>
+
 <span class='anchor' id='Publication'></span>
-# Publications 
+# Publications
+<div style="display: flex; gap: 20px; margin-bottom: 25px; align-items: start;">
+    
+  <div style="flex: 0 0 150px;"> <img src="/assets/img/paper/aerorelief3d.png" 
+         alt="Paper Teaser" 
+         style="width: 100%; border-radius: 5px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+  </div>
+
+  <div style="flex: 1;">
+    <div style="font-size: 1.1em; font-weight: bold;">
+      <a href="https://arxiv.org/pdf/2509.11097">3DAeroRelief: The first 3D Benchmark UAV Dataset for Post-Disaster Assessment</a>
+    </div>
+    
+    <div style="margin-top: 5px;">
+      <strong>Nhut Le</strong>, Ehsan Karimi, Maryam Rahnemoonfar
+    </div>
+    
+    <div style="font-style: italic; color: #666;">
+    2025
+      <!-- Conference on Computer Vision and Pattern Recognition (CVPR), 2024 -->
+    </div>
+    
+    <div style="margin-top: 5px; font-size: 0.9em; color: #444;">
+      <span class="show_paper_citations" data="1QRx2m4AAAAJ:u-x6o8ySG0sC"></span>
+    </div>
+  </div>
+
+</div>
 
 <span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
@@ -50,3 +80,4 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
 - *2010, 2011*, &nbsp;The Second place, Dong Thap Olympiad for High School Student Individual Contest in Math, Vietnam
 - *2010*, &nbsp;Gold Medal, Mekong Delta Olympic in Math, Vietnam
 - *2009*, &nbsp;Silver Medal, Olympic 30/4 in Math, Vietnam
+
