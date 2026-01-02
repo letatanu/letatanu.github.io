@@ -114,14 +114,7 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
       <span class="show_paper_citations" data="1QRx2m4AAAAJ:u-x6o8ySG0sC"></span>
     </div> -->
   </div>
-
 </div>
-
-<span class='anchor' id='education'></span>
-# Educations
-- *2024.08 - present*, &nbsp;PhD in Computer Science, Lehigh University.
-- *2018.09 - 2020.08*, &nbsp;Master's in Computer Science, Portland State University.
-- *2015.01 - 2018.06*, &nbsp;Bachelor in Computer Science, Portland State University.
 
 <span class='anchor' id='experience'></span>
 # Experience
@@ -133,6 +126,11 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
   - Worked with deep learning networks for 3D semantic segmentation 
   - Proficient in 3D manipulations such as mesh texturing, texture baking, bundle adjustment, and UV unwrapping
 
+<span class='anchor' id='education'></span>
+# Educations
+- *2024.08 - present*, &nbsp;PhD in Computer Science, Lehigh University.
+- *2018.09 - 2020.08*, &nbsp;Master's in Computer Science, Portland State University.
+- *2015.01 - 2018.06*, &nbsp;Bachelor in Computer Science, Portland State University.
 
 <span class='anchor' id='honors-and-awards'></span>
 # Honors and Awards
