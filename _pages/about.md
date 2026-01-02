@@ -138,6 +138,7 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
 - *2010, 2011*, &nbsp;The Second place, Dong Thap Olympiad for High School Student Individual Contest in Math, Vietnam
 - *2010*, &nbsp;Gold Medal, Mekong Delta Olympic in Math, Vietnam
 - *2009*, &nbsp;Silver Medal, Olympic 30/4 in Math, Vietnam
+
 <span class='anchor' id='projects'></span>
 # Projects
 <div style="display: flex; gap: 20px; margin-bottom: 25px; align-items: start;">
