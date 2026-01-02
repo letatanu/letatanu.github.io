@@ -119,7 +119,7 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
 <span class='anchor' id='experience'></span>
 # Experience
 - *2024.08 - present*, &nbsp;<strong>Research Assistant</strong> - Bina Lab, Lehigh University, Bethlehem, PA
-  - Research 3D methodologies and machine learning to support disaster-affected areas \\
+  - Research 3D methodologies and machine learning to support disaster-affected areas
 - *2020.10 - 2023.10*, &nbsp;<strong>Computer Vision Engineer</strong> - Sturfee, Inc., Remote
   - Developed, prototyped, and enhanced methods for 3D reconstruction and precise localization in the 3D prior map using Structure-from-Motion (SfM) and Multi-View Stereo (MVS) techniques, resulting in improving outdoor VPS and enabling indoor VPS
   - Implemented and optimized RGBD integration algorithms to reconstruct 3D point clouds and meshes, such as using TSDF volume integration and optimizing RGBD poses
