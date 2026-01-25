@@ -102,14 +102,14 @@ Previously, I had been working as a 3D computer vision engineer at <a href="http
 
   <div style="flex: 1;">
     <div style="font-size: 1.1em; font-weight: bold;">
-      <a href="https://arxiv.org/abs/2512.24593">3D Semantic Segmentation for Post-Disaster Assessment
+      <a href="https://ieeexplore.ieee.org/abstract/document/11244060">3D Semantic Segmentation for Post-Disaster Assessment
 </a>
     </div>
     <div style="margin-top: 5px;">
       <strong>Nhut Le</strong>, Maryam Rahnemoonfar
     </div>
     <div style="font-style: italic; color: #666;">
-    the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2025)    </div>
+    IGARSS 2025 - 2025 IEEE International Geoscience and Remote Sensing Symposium    </div>
     <!-- <div style="margin-top: 5px; font-size: 0.9em; color: #444;">
       <span class="show_paper_citations" data="1QRx2m4AAAAJ:u-x6o8ySG0sC"></span>
     </div> -->
